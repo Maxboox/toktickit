@@ -1,2 +1,2 @@
 # AI Use
-J'ai utilisé ChatGPT pour générer le code du projet.
+I used ChatGPT (via the Antigravity coding agent) as my AI assistant throughout this lab.
